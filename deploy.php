@@ -21,7 +21,7 @@ add('writable_dirs', []);
 server('staging', 'dev.promarkup.co')
         ->user('pixelspeaks')
         ->password('Random@123')
-        ->set('deploy_path', '/home/pixelspeaks/public_html/dev/job_tinder');
+        ->set('deploy_path', '/home/pixelspeaks/public_html/dev/test1');
 
 
 // Tasks
